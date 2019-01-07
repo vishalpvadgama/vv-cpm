@@ -19,7 +19,7 @@ and display the resultant free and taken status of each space in the car park at
     
      Optionally, you can set **M2\_HOME** environment variable, and also do not forget to append *&lt;Maven Installation dir>/bin* your **PATH** environment variable.
 
-## Build this project
+## Build this project and execute unit tests
 
    Using `mvn clean install` from root directory.
   
